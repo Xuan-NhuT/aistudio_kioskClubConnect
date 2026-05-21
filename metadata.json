@@ -1,0 +1,6 @@
+{
+  "name": "UW Club Connect",
+  "description": "An interactive campus kiosk application for members of UW clubs to check in, connect with nearby peers, discover campus events, and manage their student profile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
